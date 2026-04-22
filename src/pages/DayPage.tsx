@@ -15,6 +15,7 @@ import {
   IonCheckbox,
   IonSpinner,
   IonRange,
+  useIonViewWillLeave,
 } from "@ionic/react";
 import { playCircle, pauseCircle } from "ionicons/icons";
 import { useParams, useHistory } from "react-router-dom";
@@ -46,6 +47,10 @@ export default function DayPage() {
       audio.load(`/books/${id}/audio/${reading.audioFile}`);
     }
   }, [reading?.audioFile, id]);
+
+  useIonViewWillLeave(() => {
+    audio.pause();
+  });
 
   const [completed, setCompleted] = useState(false);
 

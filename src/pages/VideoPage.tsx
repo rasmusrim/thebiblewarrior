@@ -8,6 +8,8 @@ import {
   IonBackButton,
   IonButton,
   IonSpinner,
+  useIonViewWillEnter,
+  useIonViewWillLeave,
 } from "@ionic/react";
 import { useParams, useHistory } from "react-router-dom";
 import { useBook } from "../hooks/useBook";
@@ -25,6 +27,10 @@ export default function VideoPage() {
   const video = dayData?.type === "video" ? (dayData as VideoDay) : null;
 
   const [completed, setCompleted] = useState(false);
+  const [viewActive, setViewActive] = useState(true);
+
+  useIonViewWillEnter(() => setViewActive(true));
+  useIonViewWillLeave(() => setViewActive(false));
 
   useEffect(() => {
     const raw = localStorage.getItem(`book-${id}-completed`);
@@ -77,7 +83,7 @@ export default function VideoPage() {
             borderRadius: 12,
           }}
         >
-          <iframe
+          {viewActive && <iframe
             src={video.youtubeEmbed}
             title={video.videoTitle}
             style={{
@@ -90,7 +96,7 @@ export default function VideoPage() {
             }}
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
-          />
+          />}
         </div>
 
         <div style={{ padding: "24px 0", textAlign: "center" }}>
