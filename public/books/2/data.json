@@ -1,0 +1,1502 @@
+{
+  "id": 2,
+  "title": "The Bible Warrior 2",
+  "author": "Hanna Emilie",
+  "language": "no",
+  "cover": "cover.jpg",
+  "totalDays": 46,
+  "days": [
+    {
+      "day": 1,
+      "type": "reading",
+      "bibleRef": "Apg 1",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 1,
+        "fromVerse": 1,
+        "toChapter": 1,
+        "toVerse": 26
+      },
+      "audioFile": "day-01.mp3",
+      "prayerPrompt": "Be Gud om å vise deg hva det betyr det du leser. Les Apg 1",
+      "questions": [
+        {
+          "question": "Jesus kom stadig til disiplene etter han var stått opp fra de døde, hva snakket ham med dem om?",
+          "options": [
+            "Hvordan de kunne bli de største",
+            "Om det som hadde med Guds rike å gjøre",
+            "Hvordan de kunne jobbe seg fortjent til å få DHÅ"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "question": "Hvorfor måtte ikke disiplene forlate Jerusalem?",
+          "options": [
+            "For Marta og Maria var der",
+            "De skulle få Den Hellige Ånd",
+            "Fariseerne ville fange dem om de reiste vekk"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": "Tenk på tre ting som du er takknemmelig for i dag, og takk Gud for dem."
+    },
+    {
+      "day": 2,
+      "type": "reading",
+      "bibleRef": "Apg 2,1-24",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 2,
+        "fromVerse": 1,
+        "toChapter": 2,
+        "toVerse": 24
+      },
+      "audioFile": "day-02.mp3",
+      "prayerPrompt": "Be Gud om å hjelpe deg til å legge merke til noe nytt i dag. Les Apg 2,1-24",
+      "questions": [
+        {
+          "question": "Hvem ble fylt av Den Hellige Ånd (DHÅ)?",
+          "options": [
+            "Alle som var til stede",
+            "Kun de som hadde jobbet seg fortjent til det",
+            "Kun mennene"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "question": "Hva sier Peter om løftet som profeten Joel hadde kommet med?",
+          "options": [
+            "At Jesus skulle komme",
+            "DHÅ skal komme over hele menneskeheten",
+            "Romerne skulle korsfeste Jesus"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": "Bestem deg for noen du kan be for i dag, og be om at Gud kan velsigne dem."
+    },
+    {
+      "day": 3,
+      "type": "reading",
+      "bibleRef": "Apg 2,25-47",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 2,
+        "fromVerse": 25,
+        "toChapter": 2,
+        "toVerse": 47
+      },
+      "audioFile": "day-03.mp3",
+      "prayerPrompt": "Be Gud om å hjelpe deg til å legge merke til noe nytt i dag. Les Apg 2,25-47",
+      "questions": [
+        {
+          "question": "Hvem gjelder løftet om Den Hellige Ånd?",
+          "options": [
+            "De som har jobbet for det og dermed fortjent det",
+            "Gjelder både dere og barna deres, alle de som Herren kaller på",
+            "Kun apostlene og de 120 som var tilstede"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "question": "Det stikker dem i hjertet når Peter forteller at de har korsfestet Messias. Hva sier Peter at de skal gjøre?",
+          "options": [
+            "Tro på Gud, og fortsette med det de gjorde før",
+            "Vende seg om til Gud, og bli døpt i Jesu Kristi navn.",
+            "Selg deres eiendommer"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 4,
+      "type": "reading",
+      "bibleRef": "Apg 3",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 3,
+        "fromVerse": 1,
+        "toChapter": 3,
+        "toVerse": 26
+      },
+      "audioFile": "day-04.mp3",
+      "prayerPrompt": "Be Gud om å vise deg hva det betyr det du leser. Les Apg 3",
+      "questions": [
+        {
+          "question": "Hva kunne Peter gi til tiggeren?",
+          "options": [
+            "Helbrede han så han kunne gå",
+            "Han gav han sølv og gull",
+            "Noen bedre klær"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "question": "Hvem var det egentlig som helbredet den lamme?",
+          "options": [
+            "Det var Peters kraft og fromhet som gjorde det",
+            "Det var med medisiner",
+            "Det var ved troen på Jesu navn, kraften kom fra Jesus"
+          ],
+          "correctIndex": 2
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 5,
+      "type": "reading",
+      "bibleRef": "Apg 4,1-22",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 4,
+        "fromVerse": 1,
+        "toChapter": 4,
+        "toVerse": 22
+      },
+      "audioFile": "day-05.mp3",
+      "prayerPrompt": "Be Gud om å vise deg hva det betyr det du leser. Les Apg 4,1-22",
+      "questions": [
+        {
+          "question": "Hvem er bygningssteinen som bygningsmennene vraket?",
+          "options": [
+            "Josef, tømmermannen",
+            "Jesus, dette står om Messias i gamle testamentet",
+            "Paulus, han var en dyktig bygningsmann"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "question": "De eldste nektet Peter og Johannes å fortelle om Jesus. Hva svarer Peter og Johannes til at de ikke får lov?",
+          "options": [
+            "Vi kan ikke la være og forkynne om det vi har sett og hørt",
+            "Dere bestemmer ikke over oss",
+            "Ok, vi skal ikke forteller om Jesus mer"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 6,
+      "type": "reading",
+      "bibleRef": "Apg 4,23-37",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 4,
+        "fromVerse": 23,
+        "toChapter": 4,
+        "toVerse": 37
+      },
+      "audioFile": "day-06.mp3",
+      "prayerPrompt": "Be Gud om å vise deg hva det betyr det du leser. Les Apg 4,23-37",
+      "questions": [
+        {
+          "question": "Alle troende hadde ett hjertet og ett sinn. Enkelt forklart hva betyr det?",
+          "options": [
+            "At de kun hadde et hjerte",
+            "De er uenige i alt",
+            "De tenkte likt, fordi DHÅ viste dem hva som var Gudsvilje"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "question": "Hva skjedde etter de hadde bedt?",
+          "options": [
+            "De fikk DHÅ og plassen skalv (jordskjelv)",
+            "Peter blir arrestert for å ha helbredet en lam mann",
+            "Johannes tar utdanning til å bli prest"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 7,
+      "type": "reading",
+      "bibleRef": "Apg 5,1-16",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 5,
+        "fromVerse": 1,
+        "toChapter": 5,
+        "toVerse": 16
+      },
+      "audioFile": "day-07.mp3",
+      "prayerPrompt": "Be Gud om å vise deg hva det betyr det du leser. Les Apg 5,1-16",
+      "questions": [
+        {
+          "question": "Hvorfor døde Ananias og Saffira?",
+          "options": [
+            "De fikk hjerteinfarkt",
+            "De løy for DHÅ ved å ikke gi alt de fikk for åkeren",
+            "Gud likte dem ikke"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "question": "Hva skjedde når Peter gikk forbi?",
+          "options": [
+            "Mange ville ha autografen hans",
+            "De håpet å bli helbredet om skyggen hans falt på dem",
+            "Folket ropte buuuhh"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 8,
+      "type": "reading",
+      "bibleRef": "Apg 5,17-42",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 5,
+        "fromVerse": 17,
+        "toChapter": 5,
+        "toVerse": 42
+      },
+      "audioFile": "day-08.mp3",
+      "prayerPrompt": "Be Gud om å vise deg hva det betyr det du leser. Les Apg 5,17-42",
+      "questions": [
+        {
+          "question": "Hva svarte disiplene øverstepresten, da han nektet dem å fortelle om Jesus?",
+          "options": [
+            "Du bestemmer ikke over oss",
+            "En skal lyde lederne mer",
+            "En skal lyde Gud mer enn mennesker"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "question": "Gud har satt Jesus som fyrste og frelser, slik at han kan gi Israel ….?",
+          "options": [
+            "Sterke soldater som vokter dem",
+            "Gode og rolige dager",
+            "Omvendelse og tilgivelse for syndene"
+          ],
+          "correctIndex": 2
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 9,
+      "type": "reading",
+      "bibleRef": "Apg 6",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 6,
+        "fromVerse": 1,
+        "toChapter": 6,
+        "toVerse": 15
+      },
+      "audioFile": "day-09.mp3",
+      "prayerPrompt": "Husk å be Gud om å vise deg hva det betyr det du leser. Les Apg 6",
+      "questions": [
+        {
+          "question": "Hva mangler? Også en stor flokk av prestene ble……… ?",
+          "options": [
+            "Sinte på apostlene",
+            "Lydige mot troen",
+            "Ville steine dem"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "question": "Hva ville vært galt?",
+          "options": [
+            "At apostlene forsømte Guds ord",
+            "At prestene ble troende",
+            "At de delte maten"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 10,
+      "type": "reading",
+      "bibleRef": "Apg 7,1-19",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 7,
+        "fromVerse": 1,
+        "toChapter": 7,
+        "toVerse": 19
+      },
+      "audioFile": "day-10.mp3",
+      "prayerPrompt": "Husk å be Gud om å vise deg hva det betyr det du leser. Les Apg 7,1-19",
+      "questions": [
+        {
+          "question": "Hvilket land ble Israelittene bortført til i 400 år?",
+          "options": [
+            "Irak",
+            "Israelslandet",
+            "Egypt"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "question": "Hvorfor ble Josef solgt som slave?",
+          "options": [
+            "Brødrene var misunnelige på Josef",
+            "De ville tjene penger på at de solgte ham",
+            "Så Josef skulle bli en leder i landet Egypt"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 11,
+      "type": "reading",
+      "bibleRef": "Apg 7,20-38",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 7,
+        "fromVerse": 20,
+        "toChapter": 7,
+        "toVerse": 38
+      },
+      "audioFile": "day-11.mp3",
+      "prayerPrompt": "Husk å be Gud om å vise deg hva det betyr det du leser. Les Apg 7,20-38",
+      "questions": [
+        {
+          "question": "Tok israelittene imot Moses?",
+          "options": [
+            "Nei, de forkastet ham",
+            "Ja, Han gjorde så mange tegn",
+            "Ja, de ville ha han som hersker over dem"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "question": "Hva var Moses mellommann for?",
+          "options": [
+            "Han var både israelitt og egypter, var midt imellom",
+            "Mellommann mellom Gud og israelittene",
+            "Han stoppet krangelen mellom egypteren og israelitten"
+          ],
+          "correctIndex": 1,
+          "_note": "correctIndex inferred, verify"
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 12,
+      "type": "video",
+      "videoTitle": "BibleProject Apostelgjerningene 1-7",
+      "youtubeId": "PLACEHOLDER_ACT_1_7",
+      "youtubeEmbed": "https://www.youtube.com/embed/PLACEHOLDER_ACT_1_7"
+    },
+    {
+      "day": 13,
+      "type": "reading",
+      "bibleRef": "Apg 7,39-60",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 7,
+        "fromVerse": 39,
+        "toChapter": 7,
+        "toVerse": 60
+      },
+      "audioFile": "day-13.mp3",
+      "prayerPrompt": "Husk å be Gud om å vise deg hva det betyr det du leser. Les Apg 7,39-60",
+      "questions": [
+        {
+          "question": "Hva betyr \"står i mot\" eller \"stivnakket\"?",
+          "options": [
+            "Står i mot og stivnakket er en skade i nakken",
+            "Det betyr at en ikke vil være lydig, nekter å ta i mot noe",
+            "At en vil være lydig å høre"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "question": "Hva så Stefanus, som gjorde rådet så sint?",
+          "options": [
+            "Hvilke planer de hadde",
+            "Så inn i himmelen, og så Jesus stå ved siden av Gud",
+            "At de myrdet og forrådte Jesus"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 14,
+      "type": "reading",
+      "bibleRef": "Apg 8,1-25",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 8,
+        "fromVerse": 1,
+        "toChapter": 8,
+        "toVerse": 25
+      },
+      "audioFile": "day-14.mp3",
+      "prayerPrompt": "Husk å be Gud om å vise deg hva det betyr det du leser. Les Apg 8,1-25",
+      "questions": [
+        {
+          "question": "Hva sier Peter om Simons hjerte?",
+          "options": [
+            "Du har nå fått et rent hjerte, siden du tok imot Jesus",
+            "Godt hjerte du har",
+            "Det er misunnelse og synd i hjertet ditt"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "question": "Hvorfor lyttet folket til Fillip?",
+          "options": [
+            "På grunn av tegnene han gjorde, helbredet syke",
+            "Han var så flink å fortelle på en morsom måte",
+            "Fillip hadde mange fans, som hørte på han"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 15,
+      "type": "reading",
+      "bibleRef": "Apg 8,26-40",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 8,
+        "fromVerse": 26,
+        "toChapter": 8,
+        "toVerse": 40
+      },
+      "audioFile": "day-15.mp3",
+      "prayerPrompt": "Husk å be Gud om å vise deg hva det betyr det du leser. Les Apg 8,26-40",
+      "questions": [
+        {
+          "question": "Hoffmannen vil gjerne bli døpt og spør: \"Hva er til hindrer for at jeg blir døpt?\" Hva kan hindre han i å bli døpt?",
+          "options": [
+            "At han ikke tror av hele sitt hjerte",
+            "Det er ingen prest tilstede",
+            "Vannet er ikke blitt helliget"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "question": "Hva svarer Hoffmannen, når Fillip forteller han hva som trengs for å bli døpt?",
+          "options": [
+            "\"Jeg tror at Jesus Kristus er Guds Sønn\"",
+            "Vi trenger vigslet vann",
+            "Er du en prest som kan døpe meg?"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 16,
+      "type": "reading",
+      "bibleRef": "Apg 9,1-22",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 9,
+        "fromVerse": 1,
+        "toChapter": 9,
+        "toVerse": 22
+      },
+      "audioFile": "day-16.mp3",
+      "prayerPrompt": "Husk å be Gud om å vise deg hva det betyr det du leser. Les i Apg 9,1-22",
+      "questions": [
+        {
+          "question": "Hvem sier Jesus at Saulus forfølger?",
+          "options": [
+            "Slemme mennesker",
+            "En jøde som het Ananias",
+            "Saulus forfølger de som tror på Jesus, og det er det samme som å forfølge Jesus"
+          ],
+          "correctIndex": 2
+        }
+      ],
+      "reflection": "Hvordan tror du Ananias følte seg når han skulle bort til Saulus, siden han hadde kastet kristne som ham i fengsel og til og med drepte noen av dem?"
+    },
+    {
+      "day": 17,
+      "type": "reading",
+      "bibleRef": "Apg 9,23-43",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 9,
+        "fromVerse": 23,
+        "toChapter": 9,
+        "toVerse": 43
+      },
+      "audioFile": "day-17.mp3",
+      "prayerPrompt": "Husk å be Gud om å vise deg hva det betyr det du leser. Les i Apg 9,23-43",
+      "questions": [
+        {
+          "question": "Hvem var Tabita/Dorkas?",
+          "options": [
+            "En kvinnelig disippel som gjorde mye godt for de fattige",
+            "En nær venn av Saulus",
+            "En dame som ble drept fordi hun trodde på Jesus"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "question": "Hvordan hadde menigheten det etter at Paulus ble en Kristen?",
+          "options": [
+            "De hadde fred. Og ble bygd opp og levde i ærefrykt for Herren, og den vokste styrket av Den Hellige Ånd",
+            "Ble forfulgt av Saulus",
+            "Mange som ikke var Israelitter ble Kristen"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 18,
+      "type": "reading",
+      "bibleRef": "Apg 10,1-23",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 10,
+        "fromVerse": 1,
+        "toChapter": 10,
+        "toVerse": 23
+      },
+      "audioFile": "day-18.mp3",
+      "prayerPrompt": "Husk å be Gud om å vise deg hva det betyr det du leser. Les i Apg 10,1-23",
+      "questions": [
+        {
+          "question": "I synet til Kornelius sier engelen at noe har steget opp til Gud, hva er det?",
+          "options": [
+            "En duk med mange dyr i",
+            "Røyk fra flammene",
+            "Bønnene og gavene fra Kornelius"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "question": "I synet til Peter, ser han en duk med alle slags dyr og Gud sier til han \"slakt og spis\". Peter vil ikke for han vil ikke smake noe urent. (dyr som var ansett som urent var gris, hare og krepsdyr) Hva sier Gud om det?",
+          "options": [
+            "Det er rett ikke spis disse dyrene",
+            "Det Gud har sagt at er rent, må du ikke kalle urent",
+            "Bare noe av det på duken kan du spise"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 19,
+      "type": "reading",
+      "bibleRef": "Apg 10,24-48",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 10,
+        "fromVerse": 24,
+        "toChapter": 10,
+        "toVerse": 48
+      },
+      "audioFile": "day-19.mp3",
+      "prayerPrompt": "Husk å be Gud om å vise deg hva det betyr det du leser. Les i Apg 10,24-48",
+      "questions": [
+        {
+          "question": "Jødene ville ikke være med andre folkeslag fordi?",
+          "options": [
+            "De ble ansett som urene",
+            "Forstod ikke hva de sa, snakket et annet språk",
+            "Romerne var noen fæle folk, da var Peter en forræder"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "question": "Når Kornelius og folkene hos ham får Den Hellige Ånd, hva byr Peter dem å gjøre?",
+          "options": [
+            "Ber dem ta av skoene på bena",
+            "Nå må dere døpes",
+            "Slutte å lovsynge og tale i tunger"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 20,
+      "type": "reading",
+      "bibleRef": "Apg 11",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 11,
+        "fromVerse": 1,
+        "toChapter": 11,
+        "toVerse": 30
+      },
+      "audioFile": "day-20.mp3",
+      "prayerPrompt": "Gud vil hjelpe deg å forstå det du leser, be han om hjelp. Les i Apg 11",
+      "questions": [
+        {
+          "question": "Apostlene og brødrene snakket til Peter siden han hadde spist sammen med hedninger. Hva sa de når Peter hadde fått forklare seg?",
+          "options": [
+            "\"Dette er ikke bra, disse hedningene er urene\"",
+            "\"Hvorfor ba du ikke oss om lov først\"",
+            "\"Så har da Gud også latt hedningene få vende om til livet\""
+          ],
+          "correctIndex": 2
+        },
+        {
+          "question": "Var det Barnabas som hentet Saulus i Tarsos, eller var det Peter?",
+          "options": [
+            "Ja, det var Barnabas",
+            "Peter tok med seg Saulus til Antiokia."
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 21,
+      "type": "reading",
+      "bibleRef": "Apg 12",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 12,
+        "fromVerse": 1,
+        "toChapter": 12,
+        "toVerse": 25
+      },
+      "audioFile": "day-21.mp3",
+      "prayerPrompt": "Det blir lett å forstå, når du ber Gud om hjelp til å skjønne det du leser, så gjør det. Les Apg 12",
+      "questions": [
+        {
+          "question": "Hvem kom for å hente Peter ut av fengselet?",
+          "options": [
+            "Apostlene",
+            "En Herrens engel",
+            "Supermann"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "question": "Hvor mange passet på Peter i fengselet?:",
+          "options": [
+            "4",
+            "8",
+            "16"
+          ],
+          "correctIndex": 2
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 22,
+      "type": "video",
+      "videoTitle": "BibleProject Apostelgjerningene 8-12",
+      "youtubeId": "PLACEHOLDER_ACT_8_12",
+      "youtubeEmbed": "https://www.youtube.com/embed/PLACEHOLDER_ACT_8_12"
+    },
+    {
+      "day": 23,
+      "type": "reading",
+      "bibleRef": "Apg 13,1-25",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 13,
+        "fromVerse": 1,
+        "toChapter": 13,
+        "toVerse": 25
+      },
+      "audioFile": "day-23.mp3",
+      "prayerPrompt": "Jesus vil vise deg noe i bibelen, be han om hjelp til å forstå det. Les Apg 13,1-25",
+      "questions": [
+        {
+          "question": "Hvem var det som bestemte at Paulus og Barnabas skulle gå til oppgaven som de kalt til?",
+          "options": [
+            "Ingen, de fant ut av det selv",
+            "Folkene i menigheten stemte over det",
+            "Den Hellige Ånd, ba dem om å bli satt fri til oppgaven"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "question": "Hvem avsatte Saul som konge?",
+          "options": [
+            "Det var Gud som avsatte han",
+            "David avsatte han og ble konge",
+            "Israels folket ville heller ha David som konge"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 24,
+      "type": "reading",
+      "bibleRef": "Apg 13,26-52",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 13,
+        "fromVerse": 26,
+        "toChapter": 13,
+        "toVerse": 52
+      },
+      "audioFile": "day-24.mp3",
+      "prayerPrompt": "Jesus vil vise deg noe i bibelen, be han om hjelp til å forstå det. Les Apg 13,26-52",
+      "questions": [
+        {
+          "question": "David var en tjener for?",
+          "options": [
+            "Ingen, han var sin egen herre",
+            "Guds plan i sin levetid",
+            "Filisterne, han måtte betale skatt til dem"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "question": "Paulus og vennene hans ble jaget fra området rundt Perge, hvordan hadde de det? Var de trist lei, motløs osv?",
+          "options": [
+            "De ble fylt av Den Hellige Ånd og glede",
+            "De var sliten og motløse",
+            "ingen kunne trøste dem, så lei seg var de"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 25,
+      "type": "reading",
+      "bibleRef": "Apg 14",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 14,
+        "fromVerse": 1,
+        "toChapter": 14,
+        "toVerse": 28
+      },
+      "audioFile": "day-25.mp3",
+      "prayerPrompt": "Hva vil Jesus vise til deg i bibelen i dag, be han om hjelp til å forstå. Les Apg 14",
+      "questions": [
+        {
+          "question": "Hva er trengsler?",
+          "options": [
+            "Trengsler er en type hengsel på en dør",
+            "Vanskeligheter eller dumme ting som skjer.",
+            "En måte å stå i kø på"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "question": "Paulus var i Ikonium en kort tid, hvordan forkynte han til dem?",
+          "options": [
+            "Med frimodig tillit til Herren",
+            "Med en alvorlig bestemt stemme",
+            "Så kjedelig at de som hørte på sovnet"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 26,
+      "type": "reading",
+      "bibleRef": "Apg 15,1-30",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 15,
+        "fromVerse": 1,
+        "toChapter": 15,
+        "toVerse": 30
+      },
+      "audioFile": "day-26.mp3",
+      "prayerPrompt": "Husk å be Gud om hjelp til å forstå! Les Apg 15,1-30",
+      "questions": [
+        {
+          "question": "Paulus og Barnabas kom i en diskusjon med noen fra Judea, hva diskuterte de?",
+          "options": [
+            "At de hadde snakket med folk som ikke var jøder",
+            "Om de som ikke var jøder måtte omskjære seg eller ikke",
+            "Hvem som skulle bestemme over menigheten"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "question": "Peter sier at vi blir frelst ved?",
+          "options": [
+            "Å tro på Jesus Kristus, på samme måte som dem",
+            "Ved å la seg omskjære på kroppen",
+            "Holde Moseloven."
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 27,
+      "type": "reading",
+      "bibleRef": "Apg 15,31-41",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 15,
+        "fromVerse": 31,
+        "toChapter": 15,
+        "toVerse": 41
+      },
+      "audioFile": "day-27.mp3",
+      "prayerPrompt": "Husk å be Gud om hjelp til å forstå! Les Apg 15,31-41",
+      "questions": [
+        {
+          "question": "Barnabas og Paulus kranglet, hva var de uenige om?",
+          "options": [
+            "Johannes med tilnavnet Markus ikke skulle være med",
+            "Om ikke Jøder skal la seg omskjære",
+            "Hvem som var den største"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "question": "Judas og Silas hva gjorde de?",
+          "options": [
+            "Judas sviktet Jesus, Silas reiste med Paulus",
+            "De var profeter og kom med doms ord",
+            "De talte lenge til disiplene og oppmuntret og styrket dem"
+          ],
+          "correctIndex": 2
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 28,
+      "type": "reading",
+      "bibleRef": "Apg 16,1-15",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 16,
+        "fromVerse": 1,
+        "toChapter": 16,
+        "toVerse": 15
+      },
+      "audioFile": "day-28.mp3",
+      "prayerPrompt": "Den som ikke hører blir tatt i fra det han har, be Gud om hjelp til å høre og forstå. Les Apg 16,1-15",
+      "questions": [
+        {
+          "question": "Hva skjedde med Lydia og familien? To er rett",
+          "options": [
+            "De døpte familien til Lydia",
+            "Gud åpnet hjertet hennes, så hun kunne ta imot Jesus som sin frelser",
+            "Hun fikk noen til å arrestere Paulus"
+          ],
+          "correctIndex": 1,
+          "_note": "correctIndex inferred, verify (question says 'To er rett' — two are right: 0 and 1, but schema requires single correctIndex)"
+        },
+        {
+          "question": "Hvem hindret dem i å forkynne ordet om Jesus i Asia?",
+          "options": [
+            "Det var Den Hellige Ånd",
+            "Noen slemme menn",
+            "Barnabas nektet siden ikke Johannes fikk være med"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 29,
+      "type": "reading",
+      "bibleRef": "Apg 16,16-40",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 16,
+        "fromVerse": 16,
+        "toChapter": 16,
+        "toVerse": 40
+      },
+      "audioFile": "day-29.mp3",
+      "prayerPrompt": "Den som ikke hører blir tatt i fra det han har, be Gud om hjelp til å høre og forstå. Les Apg 16,16-40",
+      "questions": [
+        {
+          "question": "Hva skjedde når Paulus og Silas ba og sang lovsanger til Gud?",
+          "options": [
+            "Det kom et jordskjelv og lenkene til alle fangene løsnet",
+            "Fangene ba dem være stille",
+            "Silas ble hes for han sang så høyt"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "question": "Hvorfor ble dommerne redde?",
+          "options": [
+            "Folket ville steine dem",
+            "Siden det var jordskjelv",
+            "De brøt loven, med å piske romerske borgere uten dom"
+          ],
+          "correctIndex": 2
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 30,
+      "type": "reading",
+      "bibleRef": "Apg 17",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 17,
+        "fromVerse": 1,
+        "toChapter": 17,
+        "toVerse": 34
+      },
+      "audioFile": "day-30.mp3",
+      "prayerPrompt": "Ja nå har du lest i 30 dager, kjempe bra, det blir lettere å forstå når du ber Jesus om hjelp. Les Apg 17",
+      "questions": [
+        {
+          "question": "Hvem fikk prestene og jødene med seg fra torget i Tessalonika for å ta Paulus?",
+          "options": [
+            "Vennene sine",
+            "Rike selgere og arbeiderene",
+            "Pøbelen, rampeguttene"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "question": "Hvordan var jødene i Berøa før det kom folk fra Tessalonika?",
+          "options": [
+            "De var veldig kule",
+            "Studerte for å se om det Paulus fortalte var rett",
+            "De ville ikke høre på Paulus"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 31,
+      "type": "reading",
+      "bibleRef": "Apg 18",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 18,
+        "fromVerse": 1,
+        "toChapter": 18,
+        "toVerse": 28
+      },
+      "audioFile": "day-31.mp3",
+      "prayerPrompt": "I dag trenger du ikke å be. Nei tulla, det å være sammen med Jesus er det viktigste, be han om hjelp. Les Apg 18",
+      "questions": [
+        {
+          "question": "Hva skjedde med synagogeforstanderen Krispus og alle i hans hus?",
+          "options": [
+            "De kom alle til tro, både store og små",
+            "De ble sinte på Paulus og fikk jaget han vekk",
+            "Hele familien måtte flytte"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "question": "Hva skjedde med dem som hørte på synagogeforstanderen Krispus?",
+          "options": [
+            "De jaget Paulus vekk fra Korint",
+            "De kom til tro og lot seg døpe",
+            "Hørselen ble dårligere for han skrek sånn"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 32,
+      "type": "reading",
+      "bibleRef": "Apg 19,1-20",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 19,
+        "fromVerse": 1,
+        "toChapter": 19,
+        "toVerse": 20
+      },
+      "audioFile": "day-32.mp3",
+      "prayerPrompt": "Snakk med Jesus i dag og spør han om ting du lurer på når du leser. Se om du da kan forstå.",
+      "questions": [
+        {
+          "question": "I Efesos, møtte Paulus 12 disipler. Trodde de på Jesus?",
+          "options": [
+            "Nei, de hadde kun hør om Johannes sin omvendelse",
+            "Ja, de var jo disipler",
+            "Nei, de var disipler av artemis"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "question": "De brant svartekunst bøkene sine og fortalte om hva de hadde gjort galt. Hva skjedde når de gjorde det?",
+          "options": [
+            "De fikk kjeft av synagogeforstanderen",
+            "Herrens ord fikk fremgang og makt",
+            "Paulus reiste videre til Jerusalem"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 33,
+      "type": "reading",
+      "bibleRef": "Apg 19,21-40",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 19,
+        "fromVerse": 21,
+        "toChapter": 19,
+        "toVerse": 40
+      },
+      "audioFile": "day-33.mp3",
+      "prayerPrompt": "Snakk med Jesus i dag og spør han om ting du lurer på når du leser. Se om du da kan forstå.",
+      "questions": [
+        {
+          "question": "Hvorfor oppstod det uroligheter?",
+          "options": [
+            "Siden sølvsmedene var redd for å miste inntektene sine",
+            "De var uenige med guvernøren i Makedonia",
+            "Nei, de var disipler av artemis"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "question": "Forsamlingen som var kommet sammen, viste de hvorfor de var kommet sammen?",
+          "options": [
+            "Ja, de kom for å rope \"Stor er efesernes artemis\"",
+            "Det var kaos, de visste ikke hvorfor de var samlet",
+            "For å stille spørsmål til de kristne"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 34,
+      "type": "reading",
+      "bibleRef": "Apg 20",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 20,
+        "fromVerse": 1,
+        "toChapter": 20,
+        "toVerse": 38
+      },
+      "audioFile": "day-34.mp3",
+      "prayerPrompt": "Be Gud om hjelp i dag.",
+      "questions": [
+        {
+          "question": "Hva er riktig, hva vitnet Paulus om?",
+          "options": [
+            "De som elsker Jesus, kan gjøre mye galt og bli tilgitt",
+            "Jesus døde for at dere skal streve etter å bli frelst",
+            "Vend om til Gud og tro på vår Herre Jesus Kristus"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "question": "Hva var Paulus opptatt av når han reiste rundt?",
+          "options": [
+            "At samlingene var profesjonelle",
+            "Oppmuntre og sette mot i de troende",
+            "At han ikke skulle ta så mye båt"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 35,
+      "type": "video",
+      "videoTitle": "BibleProject Apostelgjerningene 13-20",
+      "youtubeId": "PLACEHOLDER_ACT_13_20",
+      "youtubeEmbed": "https://www.youtube.com/embed/PLACEHOLDER_ACT_13_20"
+    },
+    {
+      "day": 36,
+      "type": "reading",
+      "bibleRef": "Apg 21,1-16",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 21,
+        "fromVerse": 1,
+        "toChapter": 21,
+        "toVerse": 16
+      },
+      "audioFile": "day-36.mp3",
+      "prayerPrompt": "Be Gud om hjelp i dag.",
+      "questions": [
+        {
+          "question": "Hva svarer Paulus disiplene når de ikke vil han skal reise til Jerusalem?",
+          "options": [
+            "Jeg er villig til å bli bundet og dø",
+            "Nei, det kommer til å gå fint",
+            "Gud sender advarslene for en god grunn"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "question": "Disiplene vil ikke at Paulus skal reise til Jerusalem, men Paulus lar seg ikke overtale. Hva slår de seg til ro med?",
+          "options": [
+            "De sier \"Herrens vilje skje\"",
+            "Paulus lover han vil komme tilbake til dem",
+            "Hvis du ikke vil høre på oss så er det din egen feil om det skjer noe med deg"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 37,
+      "type": "reading",
+      "bibleRef": "Apg 21,17-21",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 21,
+        "fromVerse": 17,
+        "toChapter": 21,
+        "toVerse": 21
+      },
+      "audioFile": "day-37.mp3",
+      "prayerPrompt": "Be Gud om hjelp i dag.",
+      "questions": [
+        {
+          "question": "Hva ville folkemengden at de skulle gjøre med Paulus?",
+          "options": [
+            "De vil han skal bli satt fri",
+            "De har lyst til å få han overlevert til romerne",
+            "De vil han skal dø"
+          ],
+          "correctIndex": 2,
+          "_note": "correctIndex inferred, verify"
+        },
+        {
+          "question": "Hvem trodde de Paulus hadde tatt med seg inn i tempelet og dermed vanhellige det hellige sted?",
+          "options": [
+            "Romerske soldater",
+            "Noen som var kristne",
+            "Grekere"
+          ],
+          "correctIndex": 2,
+          "_note": "correctIndex inferred, verify"
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 38,
+      "type": "reading",
+      "bibleRef": "Apg 22",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 22,
+        "fromVerse": 1,
+        "toChapter": 22,
+        "toVerse": 30
+      },
+      "audioFile": "day-38.mp3",
+      "prayerPrompt": "Husket du å be i går selv om det ikke sto? Det å være sammen med Gud er det aller beste. Be han om hjelp i dag til å forstå det du leser.",
+      "questions": [
+        {
+          "question": "Paulus forsvarer seg for folket. Før Paulus fikk møte Jesus, hva gjorde han med de som trodde på Jesus?",
+          "options": [
+            "Satte dem i fengsel og noen drepte han",
+            "Han snakket til dem at de ikke skulle fortelle om Jesus",
+            "Han var venner med dem"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "question": "Hvem gav Paulus opplæring i fedrenes lov?",
+          "options": [
+            "Barnabas",
+            "Peter",
+            "Gamaliel"
+          ],
+          "correctIndex": 2
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 39,
+      "type": "reading",
+      "bibleRef": "Apg 23",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 23,
+        "fromVerse": 1,
+        "toChapter": 23,
+        "toVerse": 35
+      },
+      "audioFile": "day-39.mp3",
+      "prayerPrompt": "Husk å be Jesus om hjelp i dag.",
+      "questions": [
+        {
+          "question": "Hva tror saddukeerne ikke på?",
+          "options": [
+            "At Paulus var fariseer",
+            "Ånder, engler eller oppstandelse fra de døde",
+            "At Paulus var romersk borger"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "question": "Hvorfor måtte kommandanten sende Paulus til landshøvdingen Feliks?",
+          "options": [
+            "Siden Paulus var romersk borger",
+            "Kommandanten var redd for at borgen hans skulle bli stormet",
+            "Fordi noen menn hadde sverget på å ta livet av Paulus"
+          ],
+          "correctIndex": 2
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 40,
+      "type": "reading",
+      "bibleRef": "Apg 24",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 24,
+        "fromVerse": 1,
+        "toChapter": 24,
+        "toVerse": 27
+      },
+      "audioFile": "day-40.mp3",
+      "prayerPrompt": "Husk å be Jesus om hjelp i dag til å forstå det du leser.",
+      "questions": [
+        {
+          "question": "Hvor lenge satt Paulus i fengselet i Cæsarea?",
+          "options": [
+            "To måneder",
+            "Et år",
+            "To år"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "question": "Hvorfor sendte Feliks så ofte bud på Paulus?",
+          "options": [
+            "Han ville høre hva Paulus sa",
+            "Fordi han ville gå grundig gjennom saken",
+            "Han ville ha penger av Paulus. For å sette han fri"
+          ],
+          "correctIndex": 2
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 41,
+      "type": "reading",
+      "bibleRef": "Apg 25",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 25,
+        "fromVerse": 1,
+        "toChapter": 25,
+        "toVerse": 27
+      },
+      "audioFile": "day-41.mp3",
+      "prayerPrompt": "Be Gud om å vise deg hva det betyr det du leser.",
+      "questions": [
+        {
+          "question": "Hvem anker Paulus saken sin for?",
+          "options": [
+            "Kong Agrippa",
+            "Keiseren",
+            "Det jødiske råd"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "question": "Kunne jødene bevise alle de alvorlige beskyldningene mot Paulus?",
+          "options": [
+            "Ja, de hadde beviser",
+            "Nei, de hadde ikke beviser",
+            "Ja, men bevisene brøt ikke med romersk lov"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 42,
+      "type": "reading",
+      "bibleRef": "Apg 26",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 26,
+        "fromVerse": 1,
+        "toChapter": 26,
+        "toVerse": 32
+      },
+      "audioFile": "day-42.mp3",
+      "prayerPrompt": "Be Gud om hjelp i dag.",
+      "questions": [
+        {
+          "question": "Hva var det Paulus så på som en plikt å bekjempe?",
+          "options": [
+            "Alle som ikke var kristne",
+            "Han ville bekjempe romerne",
+            "Bekjempe de kristne"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "question": "Hva fikk Paulus til å slutte å kjempe mot Jesus?",
+          "options": [
+            "Han fikk et møte med Jesus",
+            "Han angret seg for dem han satte i fengsel",
+            "Noen kristne fortalte han om Jesus"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 43,
+      "type": "reading",
+      "bibleRef": "Apg 27,1-26",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 27,
+        "fromVerse": 1,
+        "toChapter": 27,
+        "toVerse": 26
+      },
+      "audioFile": "day-43.mp3",
+      "prayerPrompt": "Be Gud hjelpe deg å forstå det du leser.",
+      "questions": [
+        {
+          "question": "Paulus sier at de ikke må reise videre siden det kan bety ulykke og tap av last, kapteinen og eieren sa det skulle gå bra. Hvem hørte offiseren på?",
+          "options": [
+            "Paulus sin plan",
+            "Kapteinen og eieren av skipet",
+            "Soldatene sitt forslag"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "question": "Paulus forteller om at en engel besøkte han, de hørte ikke på ham første gangen, hørte de på han den andre gangen?",
+          "options": [
+            "Ja, de tok seg mat",
+            "Nei, de ville ikke tro på han",
+            "Paulus du er fange vi vil ikke høre på deg"
+          ],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 44,
+      "type": "reading",
+      "bibleRef": "Apg 27,27-44",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 27,
+        "fromVerse": 27,
+        "toChapter": 27,
+        "toVerse": 44
+      },
+      "audioFile": "day-44.mp3",
+      "prayerPrompt": "Be Gud hjelpe deg å forstå det du leser.",
+      "questions": [
+        {
+          "question": "Hvorfor var Paulus ved godt mot?",
+          "options": [
+            "Gud hadde vist ham at alle skulle overleve og han skulle stå frem for keiseren",
+            "For han kunne stikke av når båten gikk ned",
+            "Noen av soldatene begynte å tro på Jesus"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "question": "Hvordan hadde folk det når de først hørte på Paulus og spiste?",
+          "options": [
+            "De ble kvalme av bølgende",
+            "Var veldig redde",
+            "De fikk nytt mot, av ordene Paulus talte"
+          ],
+          "correctIndex": 2
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 45,
+      "type": "reading",
+      "bibleRef": "Apg 28",
+      "bibleRefParsed": {
+        "book": "ACT",
+        "fromChapter": 28,
+        "fromVerse": 1,
+        "toChapter": 28,
+        "toVerse": 31
+      },
+      "audioFile": "day-45.mp3",
+      "prayerPrompt": "Be i dag.",
+      "questions": [
+        {
+          "question": "Hva trodde innbyggerne på Malta at Paulus var når han ikke døde av slangebittet?",
+          "options": [
+            "En dyktig lege",
+            "En gud",
+            "En morder"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "question": "Hva sier Paulus om hjertene til folket?",
+          "options": [
+            "Sunt og godt hjerte som vil gjøre det Gud vil",
+            "Hjerte er blitt fett, de hører tungt og vil ikke se med øynene",
+            "Hedningene skal høre det som blir talt"
+          ],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 46,
+      "type": "video",
+      "videoTitle": "BibleProject Apostelgjerningene 21-28",
+      "youtubeId": "PLACEHOLDER_ACT_21_28",
+      "youtubeEmbed": "https://www.youtube.com/embed/PLACEHOLDER_ACT_21_28"
+    }
+  ]
+}

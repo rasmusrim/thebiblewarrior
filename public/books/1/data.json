@@ -1,0 +1,924 @@
+{
+  "id": 1,
+  "title": "The Bible Warrior 1",
+  "author": "Hanna Emilie",
+  "language": "no",
+  "cover": "cover.jpg",
+  "totalDays": 48,
+  "days": [
+    {
+      "day": 1,
+      "type": "reading",
+      "bibleRef": "Lukas 1,1-25",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 1, "fromVerse": 1, "toChapter": 1, "toVerse": 25 },
+      "audioFile": "day-01.mp3",
+      "prayerPrompt": "Be til Gud om å vise deg hva det betyr det du leser. Les i Lukas 1,1-25",
+      "questions": [
+        {
+          "question": "Hvem kom på besøk til Sakarja?",
+          "options": ["En hest", "Vanlig mann", "Engelen Gabriel"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Hva skjedde når Sakarja ikke trodde på det engelen sa?",
+          "options": ["Ørene falt av Sakarja", "Ble stum, så han ikke kunne snakke", "Han fikk kjeft"],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": "Snakk sammen med Gud i dag i noen minutter. Som for eksempel: Takk Han og fortell Han om det som du tenker på. Ting som er bra og ting som er vanskelig. Det er ikke vanskelig å snakke til Gud, det gjør du akkurat som snakker med en kjempegod venn."
+    },
+    {
+      "day": 2,
+      "type": "reading",
+      "bibleRef": "Lukas 1,26-56",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 1, "fromVerse": 26, "toChapter": 1, "toVerse": 56 },
+      "audioFile": "day-02.mp3",
+      "prayerPrompt": "Be til Gud om å hjelpe deg til å legge merke til noe nytt i dag. Les i Lukas 1,26-56",
+      "questions": [
+        {
+          "question": "Ville Maria gjøre det engelen sa?",
+          "options": ["Ja, jeg er herrens tjenerinne", "Nei, gå heller til nabokonen"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Trodde Maria på det engelen sa?",
+          "options": ["Ja, hun gjorde det", "Nei, hun ba engelen gå sin vei"],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": "Maria var veldig opptatt av å tjene Gud (v38). Tror du det er viktig for deg og? Kommer du på hvilken måte du kan tjene Gud i dag? Be Gud om hjelp i dag til å legge merke til noen som trenger det. Det kan hjelpe i morgen for du leser på ny."
+    },
+    {
+      "day": 3,
+      "type": "reading",
+      "bibleRef": "Lukas 1,57-80",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 1, "fromVerse": 57, "toChapter": 1, "toVerse": 80 },
+      "audioFile": "day-03.mp3",
+      "prayerPrompt": "Be Gud om å vise deg hva det betyr det du leser. Les i Lukas 1,57-80",
+      "questions": [
+        {
+          "question": "Hva synes menneskene i landsbyen om navnet til Johannes?",
+          "options": ["Det var et stygt navn", "Ingen i slekten deres het Johannes", "Han burde hete Gabriel"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Lærte Johannes noe om Gud?",
+          "options": ["Ja, han lærte å elske Gud", "Nei, han bare spilte Playstation"],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": "Be for mamma og pappa i dag, eller de som passer på deg, at de må ha det bra, og at de som er gode venner som hører på hverandre. Be om at Gud kan bruke deg til å bli enda bedre venner med dem."
+    },
+    {
+      "day": 4,
+      "type": "reading",
+      "bibleRef": "Lukas 2,1-21",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 2, "fromVerse": 1, "toChapter": 2, "toVerse": 21 },
+      "audioFile": "day-04.mp3",
+      "prayerPrompt": "Be Gud om å vise deg hva det betyr det du leser. Les i Lukas 2,1-41",
+      "questions": [
+        {
+          "question": "Simon hadde fått et løfte av Gud, hva var det?",
+          "options": ["Han skulle ikke dø før han hadde sett Messias", "Han skulle gifte seg med Anna", "Han skulle bli like sterk som Goliat"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Hvem møtte Maria og Josef i tempelet?",
+          "options": ["En engel", "Anna og Simon", "Gjeterne på marken"],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": "Bestem deg for å be for en av vennene dine i dag. Be om at vennen din skal bli bedre kjent med Jesus. Be om at dere skal være gode venner og at du kan fortelle han/hun om Jesus."
+    },
+    {
+      "day": 5,
+      "type": "reading",
+      "bibleRef": "Lukas 2,41-52",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 2, "fromVerse": 41, "toChapter": 2, "toVerse": 52 },
+      "audioFile": "day-05.mp3",
+      "prayerPrompt": "Be Gud om å vise deg hva det betyr det du leser. Les i Lukas 2,41-52",
+      "questions": [
+        {
+          "question": "Hvorfor ville Jesus være i tempelet?",
+          "options": ["Han fikk mat der", "Jesus sa det var pappaens hus", "For han ville være ulydig"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Var Jesus lydig mot mammaen og pappaen sin, når de fant han i tempelet etter tre dager?",
+          "options": ["Nei, han ville være igjen i tempelet", "Ja, han var lydig mot dem"],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": "Synes du det er vanskelig å være lydig mot mamma og pappa? Det synes jeg når jeg var en. Oppgaven i dag er at neste gang mamma, pappa eller den som passer på deg ber deg om å rydde, så gjør det. Uten å klage, greier du det?"
+    },
+    {
+      "day": 6,
+      "type": "video",
+      "videoTitle": "BibleProject Lukas kap. 1-2",
+      "youtubeId": "PLACEHOLDER_LUK_1_2",
+      "youtubeEmbed": "https://www.youtube.com/embed/PLACEHOLDER_LUK_1_2"
+    },
+    {
+      "day": 7,
+      "type": "reading",
+      "bibleRef": "Lukas 3,1-22",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 3, "fromVerse": 1, "toChapter": 3, "toVerse": 22 },
+      "audioFile": "day-07.mp3",
+      "prayerPrompt": "Husk å be Gud om å vise deg hva det betyr det du leser. Les i Lukas 3,1-22",
+      "questions": [
+        {
+          "question": "Hva snakket Johannes om til folkene?",
+          "options": ["Alle kan gjøre det de selv vil", "Fortsett å være slem mot andre", "Slutt å gjøre gale ting mot Gud og andre"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Johannes snakket om en som kom etter han, hva skulle denne mannen døpe med?",
+          "options": ["Olje og fjær", "Rennende vann", "Den Hellige Ånd"],
+          "correctIndex": 2
+        }
+      ],
+      "reflection": "Johannes sa at vi skulle være gode mot hverandre og slutte å gjøre gale ting mot Gud og andre. Finn på noe som gjør noen andre glad."
+    },
+    {
+      "day": 8,
+      "type": "reading",
+      "bibleRef": "Lukas 4,1-13",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 4, "fromVerse": 1, "toChapter": 4, "toVerse": 13 },
+      "audioFile": "day-08.mp3",
+      "prayerPrompt": "Husk å be Gud om å vise deg hva det betyr det du leser. Les i Lukas 4,1-13",
+      "questions": [
+        {
+          "question": "Hva betyr faste?",
+          "options": ["Ikke spiser mat eller for eksempel slutter å se på tv for en stund", "Det samme som å feste en skue", "Springe vanlig, veldig fort"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Hvordan ville djevelen lure Jesus?",
+          "options": ["Få han til å spise vanlig stein", "Lure Jesus til å ikke tro på Guds ord", "Bytte klærne hans"],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": "Ikke alle mennesker har det like bra i verden i dag. Mange er fattige og har lite. Ikke alle har penger så de kan gå på skole, eller få mat. Takk på i 5 minutter i dag og be for de fattige. Tenk på at som du har og gode ting du opplever. Det er gode grunner til å takke. For eksempel: Takk for at jeg kan lese, har mat, en seng å sove i, eller rommet ditt."
+    },
+    {
+      "day": 9,
+      "type": "reading",
+      "bibleRef": "Lukas 4,14-44",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 4, "fromVerse": 14, "toChapter": 4, "toVerse": 44 },
+      "audioFile": "day-09.mp3",
+      "prayerPrompt": "Husk å be Gud om å vise deg hva det betyr det du leser. Les i Lukas 4,14-44",
+      "questions": [
+        {
+          "question": "Hva var Jesus fylt av når han kom ut av ørkenen?",
+          "options": ["Mat", "Den Hellige Ånd", "Stein i lommene"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Hvorfor måtte Jesus reise fra Kapernaum?",
+          "options": ["Han skulle hjem til mamma", "Skulle hjem på ferie", "Han måtte fortelle andre om Guds rike"],
+          "correctIndex": 2
+        }
+      ],
+      "reflection": "Jesus er veldig opptatt av å fortelle andre om Guds rike, se i vers 43-44. Finn en bibelhistorie og fortell en av søsknene dine eller foreldrene dine den. For eksempel: David og Goliat, Jona og fisken, Jesus som døde på korset."
+    },
+    {
+      "day": 10,
+      "type": "reading",
+      "bibleRef": "Lukas 5,1-26",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 5, "fromVerse": 1, "toChapter": 5, "toVerse": 26 },
+      "audioFile": "day-10.mp3",
+      "prayerPrompt": "Husk å be Gud om å vise deg hva det betyr det du leser. Les i Lukas 5,1-26",
+      "questions": [
+        {
+          "question": "Jesus ba Peter om å kaste ut fiskegarnett på dypet. Dette synes Peter var rart, men hva skjedde?",
+          "options": ["Jo, og de fikk mange fisk", "Nei, han var altfor sliten"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Hva er en fariser?",
+          "options": ["En som liker Farris", "En jøde som holdt seg strengt til Moseloven", "En sint mann"],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": "Jesus hjelper dem som han møter på veien, en spedalsk og en lam. I dag kan du hjelpe familien din? Spør om du kan hjelpe til med noe. Ble de glad? Ble du glad selv?"
+    },
+    {
+      "day": 11,
+      "type": "reading",
+      "bibleRef": "Lukas 5,27-39",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 5, "fromVerse": 27, "toChapter": 5, "toVerse": 39 },
+      "audioFile": "day-11.mp3",
+      "prayerPrompt": "Husk å be til Gud om å vise deg hva det betyr det du leser. Les i Lukas 5,27-39",
+      "questions": [
+        {
+          "question": "Jesus sier til Levi «Følg meg, så skal du være min etterfølger». Hva er en etterfølger eller disippel?",
+          "options": ["En mann som har mange penger", "En som lærer av Jesus", "En fariser"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Levi er en toller, og han har mange venner som også er det. Liker fariseerne tollerne?",
+          "options": ["Nei, fordi de spiser masse mat", "Ja, de liker folk som har skjegg", "Nei, de så på dem som syndere"],
+          "correctIndex": 2
+        }
+      ],
+      "reflection": "Jesus sier til Levi, følg meg, så følger han Jesus. Det er et valg Levi tar. Ikke et som han blir tvunget til. I dag vil du velge å gjøre noe godt mot noen i familien din? Hvis du velger det, så gjør det og vær glad!"
+    },
+    {
+      "day": 12,
+      "type": "reading",
+      "bibleRef": "Lukas 6,1-26",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 6, "fromVerse": 1, "toChapter": 6, "toVerse": 26 },
+      "audioFile": "day-12.mp3",
+      "prayerPrompt": "Gud vil hjelpe deg å forstå det du leser, be han om hjelp til å forstå. Les i Lukas 6,1-26",
+      "questions": [
+        {
+          "question": "Når noen hater deg, snakker stygt om deg, og ikke vil være venn med deg fordi du tror på Jesus, hva sier Jesus at du skal gjøre?",
+          "options": ["Legge deg ned og gråte", "Hoppe av glede, for stor lønn skal du få i himmelen", "Legge deg og grine, og synes synd på deg selv"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Ble fariseerne glad for at Jesus helbredet en mann som hadde en lam hånd?",
+          "options": ["Ja, de ble kjempeglade", "Nei, de ble sinte fordi Jesus helbredet på hviledagen"],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": "Ikke alle takker Jesus når han gjør noe godt mot dem. Synes du det er kjekt når noen takker deg for noe? I dag er oppgaven din å takke alle som gjør noe godt mot deg. Som f.eks. takke for maten, når noen er grei mot deg, eller noe annet."
+    },
+    {
+      "day": 13,
+      "type": "reading",
+      "bibleRef": "Lukas 6,27-49",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 6, "fromVerse": 27, "toChapter": 6, "toVerse": 49 },
+      "audioFile": "day-13.mp3",
+      "prayerPrompt": "Det blir lett å forstå, når du ber Gud om hjelp til å skjønne det du leser, så gjør det. Les i Lukas 6,27-49",
+      "questions": [
+        {
+          "question": "Hva er riktig?",
+          "options": ["Gjør det du vil mot andre, så vil andre gjøre det mot deg", "Gjør bra mot deg selv, så vil andre det også", "Gjør mot andre det du vil at de skal gjøre mot deg"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Hvem bygger huset sitt på fjell, er den som:",
+          "options": ["Den som hører og gjør det Jesus sier", "Den som hører og ikke gidder å gjøre det som Jesus sier", "Den som ikke hører og ikke gjør det som Jesus sier"],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": "Visste du at Jesus liker å få takk, akkurat som du liker det og alle andre liker det. Kan du virkelig skrive ned 10 ting som du er glad for? Alle virkelig gode ting kommer fra Gud. Takk i denne boken er det notat-ark."
+    },
+    {
+      "day": 14,
+      "type": "reading",
+      "bibleRef": "Lukas 7,1-35",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 7, "fromVerse": 1, "toChapter": 7, "toVerse": 35 },
+      "audioFile": "day-14.mp3",
+      "prayerPrompt": "Jesus vil vise deg noe i bibelen, be han om hjelp til å forstå det. Les i Lukas 7,1-35",
+      "questions": [
+        {
+          "question": "Hva synes Jesus om enken som hadde mistet sønnen sin?",
+          "options": ["Han synes dette krevet en av meg", "Jesus tenkte veldig synd på enken", "Han var det som ikke lot seg døpe"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Hvem var det som ikke lot seg døpe?",
+          "options": ["Disiplene til Johannes", "Fariseerne og lovlærerne (skriftlærde)", "De som forstod at Johannes snakket rett"],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": "De som lot seg døpe av Johannes, de gjorde det for å vise at nå vil de tjene Gud. Det er en oppgave å kjenne etter hva som er rett. Jeg gjør det. Jeg merker at jeg blir glad og litt stolt når jeg gjør det som er rett, spesielt når det er ekstra vanskelig."
+    },
+    {
+      "day": 15,
+      "type": "reading",
+      "bibleRef": "Lukas 7,36-50",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 7, "fromVerse": 36, "toChapter": 7, "toVerse": 50 },
+      "audioFile": "day-15.mp3",
+      "prayerPrompt": "Hva vil Jesus vise til deg i bibelen i dag, be han om hjelp til å forstå. Les i Lukas 7,36-50",
+      "questions": [
+        {
+          "question": "Hvorfor gråter kvinnen som smører inn beina til Jesus?",
+          "options": ["Fordi hun hadde gjort så mye galt", "Siden noen hadde vært slem med henne"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Jesus forteller om to menn som lånte penger, men kunne ikke betale tilbake, hvem av dem elsket mest?",
+          "options": ["Han som hadde gjort mye galt", "Den mannen som skyldte en månedslønn", "Mannen som skyldte en hel årslønn"],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": "Snakk med Jesus i 5 minutter i dag. Du kan selv velge hva du vil prate med han om. Be også for vennen din som du ba for på dag 4."
+    },
+    {
+      "day": 16,
+      "type": "reading",
+      "bibleRef": "Lukas 8,1-21",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 8, "fromVerse": 1, "toChapter": 8, "toVerse": 21 },
+      "audioFile": "day-16.mp3",
+      "prayerPrompt": "Den som har ører, må høre hva jeg vil si med denne fortellingen. Husk å be Gud om hjelp til å forstå! Les i Lukas 8,1-21",
+      "questions": [
+        {
+          "question": "Hva er såkornet i fortellingen til Jesus?",
+          "options": ["Det er hvetekor", "Det er Guds ord", "Såkornet er havre"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Hvor er den beste plassen kornet havner på?",
+          "options": ["På steingrunn, det vokser fort", "I den gode jorden", "På stein, så det blir mat til fuglene"],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": "Les vers 18: De som hører, de handler (gjør noe), men de som ikke handler, mister det lille de tror de skjønner. De som handler, forstår mer og mer. Viste du at når du gjør det Gud sier, så forstår du mer og mer? Hva kan du gjøre i dag som gjør at du forstår mer og mer?"
+    },
+    {
+      "day": 17,
+      "type": "reading",
+      "bibleRef": "Lukas 8,22-56",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 8, "fromVerse": 22, "toChapter": 8, "toVerse": 56 },
+      "audioFile": "day-17.mp3",
+      "prayerPrompt": "Den som ikke hører blir fratatt det han har, be Gud om å høre og forstå. Les i Lukas 8,22-56",
+      "questions": [
+        {
+          "question": "Damen som hadde blødninger, ble frisk. Hva sier Jesus var grunnen til at hun ble frisk?",
+          "options": ["Hun trodde på Jesus, derfor ble hun frisk", "Hun hadde vært flink å ta medisinen som legen hadde gitt henne", "Fordi hun var så snill"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Når Jesus fortalte at jenten til Jairus bare sov, selv om hun var død, lo folket hånlig av Jesus. Brydde Jesus seg om det?",
+          "options": ["Ja, han ble lei seg", "Nei, han bare gjorde det som var rett"],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": "I går snakket vi om å gjøre det Gud sier. Tenkte du på hva du kunne gjøre for å skjønne mer, eller gjorde du noe? I dag spør Gud om å vise deg noen du kan hjelpe, noen som er ensam, noen som trenger noen hjelp, eller noe annet. Gjør det som «noe»."
+    },
+    {
+      "day": 18,
+      "type": "reading",
+      "bibleRef": "Lukas 9,1-27",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 9, "fromVerse": 1, "toChapter": 9, "toVerse": 27 },
+      "audioFile": "day-18.mp3",
+      "prayerPrompt": "Ja nå har du lest i 17 dager, kjempebra, det blir bare bedre og bedre. Husk å be Jesus om hjelp. Les i Lukas 9,1-27",
+      "questions": [
+        {
+          "question": "Jesus spør disiplene hvem de tror han er, hva svarte Peter?",
+          "options": ["Jesus fra Nasaret", "Du er Jesus, du er en profet", "Du er Messias den levende Guds sønn"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Hva sier Jesus er det aller viktigste så lenge vi lever?",
+          "options": ["Å bli populær", "Bli flink å be og gjøre store ting for Gud", "Livet sammen med Jesus"],
+          "correctIndex": 2
+        }
+      ],
+      "reflection": "Er du takknemlig for noe i dag? Takk Gud for 5 ting du er glad for."
+    },
+    {
+      "day": 19,
+      "type": "video",
+      "videoTitle": "BibleProject Lukas kap. 3-9",
+      "youtubeId": "PLACEHOLDER_LUK_3_9",
+      "youtubeEmbed": "https://www.youtube.com/embed/PLACEHOLDER_LUK_3_9"
+    },
+    {
+      "day": 20,
+      "type": "reading",
+      "bibleRef": "Lukas 9,28-62",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 9, "fromVerse": 28, "toChapter": 9, "toVerse": 62 },
+      "audioFile": "day-20.mp3",
+      "prayerPrompt": "I dag trenger du ikke å be. Nei tulle, det å være sammen med Jesus, det viktigste, det leste vi om i går. Les i Lukas 9,28-62",
+      "questions": [
+        {
+          "question": "Hva snakket Jesus med Moses og Elia om?",
+          "options": ["Hvordan Jesus kom til å gå til Jerusalem", "Hvordan hyttene deres skulle være", "Hvem Peter og Johannes var"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Var Jesus glad fordi Johannes og noen andre hadde kjeftet på noen som drev ut onde ånder i Jesus sitt navn?",
+          "options": ["Nei, den som ikke er imot dere er med dere", "Ja, det hadde de ikke lov til kun Jesus"],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": "Vennen som du ba for på dag 4 og dag 14, kan du be for han/henne igjen? Be om at de får mulighet til å fortelle han/hun om Jesus. Gud vil at alle mennesker skal komme til himmelen. Be om at han/hun tar imot Jesus."
+    },
+    {
+      "day": 21,
+      "type": "reading",
+      "bibleRef": "Lukas 10,1-24",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 10, "fromVerse": 1, "toChapter": 10, "toVerse": 24 },
+      "audioFile": "day-21.mp3",
+      "prayerPrompt": "Snakk med Jesus i dag og spør han om ting du lurer på når du leser. Se om du kan forstå. Les i Lukas 10,1-24",
+      "questions": [
+        {
+          "question": "Når Jesus sender ut disiplene sine, hva sier han om dem som tar imot dem?",
+          "options": ["De tar imot kjekke menn", "Støvet skal de tørke av beina sine", "Folkene som tar imot disiplene, tar imot Jesus"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Jesus sier til dem at de skal be Gud sende ut arbeidere fordi høsten er stor. Hva mener Jesus med høsten?",
+          "options": ["Det var så mange epler å plukke i landsbyene", "Høsten er menneskene som kan ta imot Jesus", "Høsten nærmer seg, derfor trenger de arbeidere på åkrene rundt Jerusalem"],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": "I dag kan du finne på noe kjekt for noen andre, dekk på bordet til kveldsmaten eller noe annet gøy som du finner på."
+    },
+    {
+      "day": 22,
+      "type": "reading",
+      "bibleRef": "Lukas 10,25-42",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 10, "fromVerse": 25, "toChapter": 10, "toVerse": 42 },
+      "audioFile": "day-22.mp3",
+      "prayerPrompt": "Be om hjelp i dag. Les i Lukas 10,25-42",
+      "questions": [
+        {
+          "question": "Hva er riktig?",
+          "options": ["En skal elske seg selv mest, og nest viktigst er vennene dine", "Elsk Gud av hele ditt hjerte og hele din sjel", "Elsk Gud av fra ditt hjerte og alle tankene dine"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Å jobbe er veldig bra, men i historien om Maria og Marta som gjør det rette, hva er det?",
+          "options": ["Å jobbe for å gjøre ferdig middagen", "Hun hører på hva Jesus hadde å si", "At hun ikke gidder å jobbe, men å si Jesus"],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": "Be i dag. Snakk med Gud om det som du tenker på, takke Gud for ting du er glad for. Be også for vennen din på dag 4. Be om at vennen din må bli kjent med Jesus og at du kan fortelle han/hun om Han."
+    },
+    {
+      "day": 23,
+      "type": "reading",
+      "bibleRef": "Lukas 11,1-36",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 11, "fromVerse": 1, "toChapter": 11, "toVerse": 36 },
+      "audioFile": "day-23.mp3",
+      "prayerPrompt": "Les Lukas 11,1-36",
+      "questions": [
+        {
+          "question": "Jesus lærer disiplene å be, hva betyr det Jesus sier: «tilgi oss våre synder, for også vi tilgir hver den som har syndet mot oss»?",
+          "options": ["Det betyr at vi kan tilgi hverandre hvis vi vil, så blir vi tilgitt", "Det er at alle andre som gjør noe galt mot oss, er viktigst", "Hvis jeg tilgir andre som gjør noe galt mot meg, så blir jeg tilgitt av Gud for det gale jeg har gjort"],
+          "correctIndex": 2
+        },
+        {
+          "question": "En dame roper til Jesus, at heldig er den mammaen som fødte deg. Men hva svarer Jesus tilbake?",
+          "options": ["Enda mer velsignet er alle dem som hører Guds ord og gjør som ordet sier", "Ja, dere kan be til Maria så vil hun svare bønnene deres", "Mamma er en heldig dame som fikk besøk av engelen Gabriel"],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 24,
+      "type": "reading",
+      "bibleRef": "Lukas 11,37-54",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 11, "fromVerse": 37, "toChapter": 11, "toVerse": 54 },
+      "audioFile": "day-24.mp3",
+      "prayerPrompt": "Husket du å be i går selv om det ikke sto? Det å være sammen med Gud er det aller beste. Be han om hjelp i dag til å forstå det du leser. Les i Lukas 11,37-54",
+      "questions": [
+        {
+          "question": "Hva er det Jesus er så sint for at fariseerne har glemt?",
+          "options": ["Å gi tiende", "Rettferdighet og kjærlighet", "Vaske hendene"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Gjør Lovlærerne og fariseerne det vanskeligere for menneskene å komme til Gud?",
+          "options": ["Ja, de lager nye regler, som for eksempel at de må vaske hendene", "Nei, de gjør det lettere"],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": "Det er bra å vaske hendene, men det har ingen betydning for om noen kan komme til himmelen eller ikke. Be litt i dag, du kan selv velge hva du skal be om og takke for. Men husk å be for vennen din!"
+    },
+    {
+      "day": 25,
+      "type": "reading",
+      "bibleRef": "Lukas 12,1-34",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 12, "fromVerse": 1, "toChapter": 12, "toVerse": 34 },
+      "audioFile": "day-25.mp3",
+      "prayerPrompt": "Husk å be Jesus om hjelp i dag. Les i Lukas 12,1-34",
+      "questions": [
+        {
+          "question": "Fariseerne latet som de var gode, men de var slemme og kunne stjele. Hva mente Jesus med måten fariseerne opptrer på?",
+          "options": ["Fariseerne latet som de var gode, men de var slemme og kunne stjele", "Fariseerne var slemme og kunne stjele", "De ville lure dem til å si noe galt"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Er det bra å være bekymret?",
+          "options": ["Ja, så man kan få samlet mat nok til i morgen", "Nei, vi kan bare sette oss ned og slappe av", "Nei, og det er bra å forberede seg, for det er ikke bra å bekymre seg"],
+          "correctIndex": 2
+        }
+      ],
+      "reflection": "I dag kan du selv finne på noe godt å gjøre mot noen andre. Skriv ned det du gjør her."
+    },
+    {
+      "day": 26,
+      "type": "reading",
+      "bibleRef": "Lukas 12,35-59",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 12, "fromVerse": 35, "toChapter": 12, "toVerse": 59 },
+      "audioFile": "day-26.mp3",
+      "prayerPrompt": "Denne teksten er vanskelig å forstå, om du ikke ber Gud om hjelp. Så dette klarer du. Les i Lukas 12,35-59",
+      "questions": [
+        {
+          "question": "Hva mener Jesus med at vi skal være klare når han kommer tilbake?",
+          "options": ["At vi jobber med å gjøre det Gud vil", "Vi bør ikke gå på kino, for da er vi ikke klare", "Kofferten bør være pakket, og rommet ryddet"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Jesus snakker om at han har en fryktelig dåp som ligger foran han, hva tror du Jesus snakker om?",
+          "options": ["Det er vinter og iskald i elven Jordan", "Han skal dø på korset", "Han må bekjenne syndene sin når han døper"],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 27,
+      "type": "reading",
+      "bibleRef": "Lukas 13,1-35",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 13, "fromVerse": 1, "toChapter": 13, "toVerse": 35 },
+      "audioFile": "day-27.mp3",
+      "prayerPrompt": "Be Gud om å vise deg hva det betyr det du leser. Les i Lukas 13,1-35",
+      "questions": [
+        {
+          "question": "Hva ba gartneren herren sin om?",
+          "options": ["Å gi fikentreet en sjanse til", "Han ville ha mer lønn", "En bedre spade til å grave rundt treet med"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Hvor lenge hadde kvinnen som Jesus helbreder vært syk?",
+          "options": ["Siden hun var født", "8 år", "18 år"],
+          "correctIndex": 2
+        }
+      ],
+      "reflection": ""
+    },
+    {
+      "day": 28,
+      "type": "reading",
+      "bibleRef": "Lukas 14,1-35",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 14, "fromVerse": 1, "toChapter": 14, "toVerse": 35 },
+      "audioFile": "day-28.mp3",
+      "prayerPrompt": "Denne teksten er vanskelig å forstå om du ikke ber Gud om hjelp. Så dette klarer du. Les i Lukas 14,1-35",
+      "questions": [
+        {
+          "question": "Hvor mye må en som er Jesu disippel være beredt til å gi opp? Se vers 33",
+          "options": ["All maten som du har i huset", "Alle Lekene", "Fullstendig alt"],
+          "correctIndex": 2
+        }
+      ],
+      "reflection": "Hva kan vi gjøre mot andre for å hjelpe dem?"
+    },
+    {
+      "day": 29,
+      "type": "reading",
+      "bibleRef": "Lukas 15,1-32",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 15, "fromVerse": 1, "toChapter": 15, "toVerse": 32 },
+      "audioFile": "day-29.mp3",
+      "prayerPrompt": "Be Gud hjelpe deg å forstå det du leser. Les i Lukas 15,1-32",
+      "questions": [
+        {
+          "question": "Hvor mange sauer var det som forsvant?",
+          "options": ["10 sauer", "En sau og en ulv", "En sau"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Hva skjedde når gjeteren fant sauen?",
+          "options": ["Han slaktet den og inviterte naboene sine på stek", "Han ble glad og solgte sauen", "Gjeteren laget en fest, for han var så glad for at sauen var kommet tilbake"],
+          "correctIndex": 2
+        }
+      ],
+      "reflection": "Be for vennen din i dag, be om at han skal bli funnet lik som sauen som ble borte."
+    },
+    {
+      "day": 30,
+      "type": "reading",
+      "bibleRef": "Lukas 16,1-31",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 16, "fromVerse": 1, "toChapter": 16, "toVerse": 31 },
+      "audioFile": "day-30.mp3",
+      "prayerPrompt": "Be i dag. Les i Lukas 16,1-31",
+      "questions": [
+        {
+          "question": "Jesus forteller om en forvalter som måtte slutte i jobben, hva kan vi lære av historien?",
+          "options": ["At det er smart å lure andre som er slem mot oss", "Bruk heller pengene våre til å hjelpe andre", "Hvis vi er uærlige, kan vi miste jobben"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Hva vil Gud gjøre med menneskene? Se vers 16",
+          "options": ["Han vil gi dem juling", "Vil gjøre dem til sitt eget folk", "Få dem til å være slavene hans"],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": "Jesus liker å høre stemmen din, hvis du aldri har bedt høyt for så be høyt til han i dag. Ja ikke så høyt at noen får vondt i ørene altså."
+    },
+    {
+      "day": 31,
+      "type": "reading",
+      "bibleRef": "Lukas 17,1-37",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 17, "fromVerse": 1, "toChapter": 17, "toVerse": 37 },
+      "audioFile": "day-31.mp3",
+      "prayerPrompt": "I dag må du stå på hodet når du ber. Nei, bare tulla. Snakk med Gud som du pleier. Les i Lukas 17,1-37",
+      "questions": [
+        {
+          "question": "Jesus forteller om noe som alltid vil finnes i vers 1. Hva er det?",
+          "options": ["Noe som frister menneskene", "Verden vil alltid finnes", "Ulykke og triste ting"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Jesus gjør ti spedalske friske, hvor mange av dem kom igjen for å takke han?",
+          "options": ["Alle sammen", "Fire av dem", "Bare en av dem"],
+          "correctIndex": 2
+        }
+      ],
+      "reflection": "Oppgaven i dag er at du skal huske å si takk for alt som du får, takk for maten, at noen sender deg noe ved bordet. Blir de glad når du sier takk?"
+    },
+    {
+      "day": 32,
+      "type": "reading",
+      "bibleRef": "Lukas 18,1-42",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 18, "fromVerse": 1, "toChapter": 18, "toVerse": 42 },
+      "audioFile": "day-32.mp3",
+      "prayerPrompt": "Be Gud vise deg hva det betyr det du leser. Les i Lukas 18,1-42",
+      "questions": [
+        {
+          "question": "Hva sier Jesus er viktig når vi ber? Vers 1",
+          "options": ["Be og aldri gi opp", "Løfte hendene", "Be høyt"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Vil Jesus at småbarn skal komme til han? Vers 15-17",
+          "options": ["Jo, alle som vil bli Guds eget folk er velkommen", "Nei, han har ikke tid til bråket til de små barna"],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": "Be og takk i noen minutter i dag. Husk å be om at du kan bli kjent med Jesus og at du kan få fortalt han mer om troen på Jesus."
+    },
+    {
+      "day": 33,
+      "type": "reading",
+      "bibleRef": "Lukas 19,1-27",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 19, "fromVerse": 1, "toChapter": 19, "toVerse": 27 },
+      "audioFile": "day-33.mp3",
+      "prayerPrompt": "Be Jesus om hjelp til å forstå. Les i Lukas 19,1-27",
+      "questions": [
+        {
+          "question": "Hva sier folket om Sakkeus?",
+          "options": ["Han er en snill mann", "Han er en veldig uærlig", "Han er en veldig lykkelig"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Hva fikk den første tjeneren som hadde vært så flink å tjene ti ganger så mye som han hadde? Vers 12-25",
+          "options": ["Han fikk styre over 10 byer", "Han fikk styre over 5 byer og penger", "Han fikk styre over 5 byer"],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": "I går leste du om det å be og aldri gi opp. Når vi ber får vi noe. Hvis du har bedt for vennen din om at han skal bli kjent med Jesus, hva er rett at du gjør da?"
+    },
+    {
+      "day": 34,
+      "type": "reading",
+      "bibleRef": "Lukas 19,28-47",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 19, "fromVerse": 28, "toChapter": 19, "toVerse": 47 },
+      "audioFile": "day-34.mp3",
+      "prayerPrompt": "Be Gud om å hjelpe deg å forstå det du leser. Les i Lukas 19,28-47",
+      "questions": [
+        {
+          "question": "Fariseerne kjeftet på Jesus og sa han måtte snakke til disiplene sine som ropte sånn. Hva svarte Jesus igjen?",
+          "options": ["Ja, jeg skal be dem å være stille", "Hvis de er stille, vil steinene rope isteden", "Trenger dere hørselvern?"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Jesus jager kjøpmennene ut av tempelplassen. Hva sier han til dem?",
+          "options": ["Mitt hus skal være et hus der folket mitt kan be", "Slutt å stjele penger fra folk tjuvpakk", "Kom dere ut jeg vil være alene"],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": "Takk Gud og be litt i dag. Husk å be for vennen din."
+    },
+    {
+      "day": 35,
+      "type": "video",
+      "videoTitle": "BibleProject Lukas kap. 9-19",
+      "youtubeId": "PLACEHOLDER_LUK_9_19",
+      "youtubeEmbed": "https://www.youtube.com/embed/PLACEHOLDER_LUK_9_19"
+    },
+    {
+      "day": 36,
+      "type": "reading",
+      "bibleRef": "Lukas 20,1-19",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 20, "fromVerse": 1, "toChapter": 20, "toVerse": 19 },
+      "audioFile": "day-36.mp3",
+      "prayerPrompt": "Les Lukas 20,1-19",
+      "questions": [
+        {
+          "question": "Hva svarte Jesus fariseerne når de spurte om hvem som hadde gitt han oppdraget?",
+          "options": ["Jeg har ikke noe rett til å snakke om det", "Jesus spurte: «Hvor kom Johannes dåpen fra...»", "Med hvilken rett spør dere meg om det"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Hva svarte Fariseerne på spørsmålet til Jesus?",
+          "options": ["Vi vet ikke", "Den kom fra Gud", "Den kom fra mennesker"],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": "Finn på noe som er kjekt for noen andre i dag eller i morgen. Hva gjorde du?"
+    },
+    {
+      "day": 37,
+      "type": "reading",
+      "bibleRef": "Lukas 20,20-47",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 20, "fromVerse": 20, "toChapter": 20, "toVerse": 47 },
+      "audioFile": "day-37.mp3",
+      "prayerPrompt": "Be Gud om hjelp i dag. Les i Lukas 20,20-47",
+      "questions": [
+        {
+          "question": "Våget noen å stille Jesus flere spørsmål etter at Jesus hadde svart på de to spørsmålene?",
+          "options": ["Nei, de våget ikke å stille han flere spørsmål", "Ja, de spurte om Messias var etterkommer av David", "David"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Hva tror du dobbeltmoral betyr?",
+          "options": ["Det betyr at en har dobbelt så god moral som andre", "At noen viser at man er flink til noe, men ikke er det", "Moral er et utstyr til hest som er farlig"],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": "Velg selv en historie som du har lest i Lukas og fortell den til en annen. En venn, mamma og pappa. Du velger selv."
+    },
+    {
+      "day": 38,
+      "type": "reading",
+      "bibleRef": "Lukas 21,1-38",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 21, "fromVerse": 1, "toChapter": 21, "toVerse": 38 },
+      "audioFile": "day-38.mp3",
+      "prayerPrompt": "Be Gud om hjelp i dag. Les i Lukas 21,1-38",
+      "questions": [
+        {
+          "question": "Hva var det enken la oppi tempelkisten? Se vers 1-4",
+          "options": ["To brød", "To mynter", "Masse penger"],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": "Les versene 3-4. Hva kan det bety tror du? Be Gud vise deg hva det betyr."
+    },
+    {
+      "day": 39,
+      "type": "reading",
+      "bibleRef": "Lukas 22,1-38",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 22, "fromVerse": 1, "toChapter": 22, "toVerse": 38 },
+      "audioFile": "day-39.mp3",
+      "prayerPrompt": "Be Gud om hjelp i dag. Les i Lukas 22,1-38",
+      "questions": [
+        {
+          "question": "Jesus og disiplene skulle spise sammen. Var det på...?",
+          "options": ["Restaurant", "Ved sjøen", "Påskemåltidet"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Hvem skulle spise sammen?",
+          "options": ["Bare disiplene", "Folkene i byen", "Jesus og disiplene"],
+          "correctIndex": 2
+        }
+      ],
+      "reflection": "Snakk sammen med noen som kjenner Jesus om hva nattverden er, og hva den betyr. v14-22"
+    },
+    {
+      "day": 40,
+      "type": "reading",
+      "bibleRef": "Lukas 22,39-71",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 22, "fromVerse": 39, "toChapter": 22, "toVerse": 71 },
+      "audioFile": "day-40.mp3",
+      "prayerPrompt": "Be Gud om hjelp i dag. Les i Lukas 22,39-71",
+      "questions": [
+        {
+          "question": "Hva var det Jesus gjorde på oljeberget?",
+          "options": ["Hentet olje fra plantene", "Sov sammen med disiplene", "Ba"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Hva hogde en av disiplene av?",
+          "options": ["Et tre", "Et tau som Jesus var bundet med", "Øret til øversteprestens tjener"],
+          "correctIndex": 2
+        }
+      ],
+      "reflection": "Snakk sammen med noen om hvorfor Peter nektet for å kjenne Jesus. Se vers 47-53. Gjør vi slik av og til i dag?"
+    },
+    {
+      "day": 41,
+      "type": "reading",
+      "bibleRef": "Lukas 23,1-25",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 23, "fromVerse": 1, "toChapter": 23, "toVerse": 25 },
+      "audioFile": "day-41.mp3",
+      "prayerPrompt": "Be Gud om å vise deg hva det betyr det du leser. Les i Lukas 23,1-25",
+      "questions": [
+        {
+          "question": "Hvem ble Jesus ført frem for? Se vers 1-12",
+          "options": ["Både Pilatus og Herodes", "Kjøpmannen", "Disiplene"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Hva het han som folket ville ha fri, istedenfor Jesus? Se vers 13-25",
+          "options": ["Sabbarabb", "Barsabbs", "Barabbas"],
+          "correctIndex": 2
+        }
+      ],
+      "reflection": "Hvorfor tror du folket ville korsfeste Jesus? Snakk gjerne sammen med noe her."
+    },
+    {
+      "day": 42,
+      "type": "reading",
+      "bibleRef": "Lukas 23,26-56",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 23, "fromVerse": 26, "toChapter": 23, "toVerse": 56 },
+      "audioFile": "day-42.mp3",
+      "prayerPrompt": "Be Gud om å vise deg hva det betyr det du leser. Les i Lukas 23,26-56",
+      "questions": [
+        {
+          "question": "Hvor mange andre ble korsfestet sammen med Jesus? Se i vers 26-36",
+          "options": ["To", "Fire", "Fem"],
+          "correctIndex": 0
+        },
+        {
+          "question": "Hvor døde Jesus? Se vers 26-43",
+          "options": ["I en hule", "På korset", "I sengen"],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": "Be til Gud. Ha en fin stund sammen med han nå. Du kan både takke Gud, være stille sammen med Han, og si ting du tenker på. Se om du klarer å bruke 5 minutter."
+    },
+    {
+      "day": 43,
+      "type": "video",
+      "videoTitle": "BibleProject Lukas kap. 19-23",
+      "youtubeId": "PLACEHOLDER_LUK_19_23",
+      "youtubeEmbed": "https://www.youtube.com/embed/PLACEHOLDER_LUK_19_23"
+    },
+    {
+      "day": 44,
+      "type": "reading",
+      "bibleRef": "Lukas 24,1-35",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 24, "fromVerse": 1, "toChapter": 24, "toVerse": 35 },
+      "audioFile": "day-44.mp3",
+      "prayerPrompt": "Be Gud om å vise deg hva det betyr det du leser. Les i Lukas 24,1-35",
+      "questions": [
+        {
+          "question": "Vers 1-11. Hva var skjedd med steinen som var foran Jesu grav?",
+          "options": ["Den var på plass", "Den var rullet vekk", "Den var delt i to"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Vers 28-32. Hva skjedde med disiplene når de så Jesus?",
+          "options": ["Ble redde", "Kjente han igjen", "Begynte å fiske"],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": "Snakk sammen med noen som kjenner Jesus om hva det betyr for deg, at Jesus døde og stod opp igjen."
+    },
+    {
+      "day": 45,
+      "type": "reading",
+      "bibleRef": "Lukas 24,36-53",
+      "bibleRefParsed": { "book": "LUK", "fromChapter": 24, "fromVerse": 36, "toChapter": 24, "toVerse": 53 },
+      "audioFile": "day-45.mp3",
+      "prayerPrompt": "Be Gud om å vise deg hva det betyr det du leser. Les i Lukas 24,36-53",
+      "questions": [
+        {
+          "question": "Hva sa Jesus når han stod midt iblant dem? Se vers 36-39",
+          "options": ["Legg dere å sove", "Kjøp en is", "Fred være med dere"],
+          "correctIndex": 2
+        },
+        {
+          "question": "Hva viste Jesus til de som var der? Se vers 36-43",
+          "options": ["Hunden", "Hendene og føttene", "Stranden"],
+          "correctIndex": 1
+        }
+      ],
+      "reflection": "Snakk sammen med noen om hva Jesus sa som skulle bli spredt til alle folk og folkeslag v 44-49."
+    },
+    {
+      "day": 46,
+      "type": "video",
+      "videoTitle": "BibleProject Lukas kap. 24",
+      "youtubeId": "PLACEHOLDER_LUK_24",
+      "youtubeEmbed": "https://www.youtube.com/embed/PLACEHOLDER_LUK_24"
+    },
+    {
+      "day": 47,
+      "type": "reading",
+      "bibleRef": "Filemon 1-25",
+      "bibleRefParsed": { "book": "PHM", "fromChapter": 1, "fromVerse": 1, "toChapter": 1, "toVerse": 25 },
+      "audioFile": "day-47.mp3",
+      "prayerPrompt": "Be Gud om å vise deg hva det betyr det du leser. Les Filemon 1-25",
+      "questions": [
+        {
+          "question": "Hvem er Onesimus?",
+          "options": ["En nordmann", "Slaven til Filemon", "Broren til Timoteus"],
+          "correctIndex": 1
+        },
+        {
+          "question": "Hva ber Paulus Filemon om?",
+          "options": ["At han lyer han, og er god mot Onesimos", "At han skal betale", "Sender bibelen til Paulus"],
+          "correctIndex": 0
+        }
+      ],
+      "reflection": "Ønsker du å fortelle vennen som du har bedt for om Jesus? Så gjør det i dag!"
+    },
+    {
+      "day": 48,
+      "type": "video",
+      "videoTitle": "BibleProject Filemon",
+      "youtubeId": "PLACEHOLDER_FILEMON",
+      "youtubeEmbed": "https://www.youtube.com/embed/PLACEHOLDER_FILEMON"
+    }
+  ]
+}

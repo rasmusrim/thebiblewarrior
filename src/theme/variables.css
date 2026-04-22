@@ -1,0 +1,33 @@
+:root {
+  --ion-color-primary: #c0392b;
+  --ion-color-primary-rgb: 192, 57, 43;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255, 255, 255;
+  --ion-color-primary-shade: #a93226;
+  --ion-color-primary-tint: #c94d40;
+
+  --ion-color-secondary: #e67e22;
+  --ion-color-secondary-rgb: 230, 126, 34;
+  --ion-color-secondary-contrast: #ffffff;
+  --ion-color-secondary-contrast-rgb: 255, 255, 255;
+  --ion-color-secondary-shade: #ca6f1e;
+  --ion-color-secondary-tint: #e98b38;
+
+  --ion-color-success: #27ae60;
+  --ion-color-success-rgb: 39, 174, 96;
+  --ion-color-success-contrast: #ffffff;
+  --ion-color-success-contrast-rgb: 255, 255, 255;
+  --ion-color-success-shade: #229954;
+  --ion-color-success-tint: #3db670;
+
+  --ion-color-danger: #e74c3c;
+  --ion-color-danger-rgb: 231, 76, 60;
+  --ion-color-danger-contrast: #ffffff;
+  --ion-color-danger-contrast-rgb: 255, 255, 255;
+  --ion-color-danger-shade: #cb4335;
+  --ion-color-danger-tint: #e95e50;
+
+  --ion-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --ion-background-color: #faf3e0;
+  --ion-text-color: #2c3e50;
+}
