@@ -8,7 +8,7 @@ const candidates = [
   resolve(root, 'scripts/icon.svg'),
   resolve(root, 'assets/icon.png'),
   resolve(root, 'assets/icon.jpg'),
-  resolve(root, 'public/books/1/cover.jpg'),
+  resolve(root, 'books/1/cover.jpg'),
 ]
 const outDir = resolve(root, 'public/icons')
 

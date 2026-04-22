@@ -11,7 +11,7 @@ set -euo pipefail
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
 TIMESTAMPS="$ROOT/assets/timestamps.json"
-OUTPUT_DIR="$ROOT/public/books/1/audio"
+OUTPUT_DIR="$ROOT/books/1/audio"
 
 mkdir -p "$OUTPUT_DIR"
 

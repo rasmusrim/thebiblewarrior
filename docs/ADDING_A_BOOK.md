@@ -10,10 +10,10 @@ This guide explains how to add a new book in the series to the app.
 
 ## 2. Directory Structure
 
-Create a new directory under `public/books/` with the next available number:
+Create a new directory under `books/` (at the repo root) with the next available number:
 
 ```
-public/books/{N}/
+books/{N}/
 ├── data.json
 ├── cover.jpg
 └── audio/
@@ -21,6 +21,8 @@ public/books/{N}/
     ├── day-02.mp3
     └── ...
 ```
+
+Book content is served to the browser at `/books/{N}/...` via a symlink at `public/books -> ../books`. The top-level directory is the source of truth; the symlink exists so Vite picks it up as static content without needing a copy step.
 
 ## 3. Audio Processing
 
@@ -116,10 +118,10 @@ Duplicate QR codes across multiple pages are real — some printings reuse the s
 
 Crop the cover photo to isolate the emblem/artwork:
 ```bash
-convert assets/your_cover.jpg -crop WxH+X+Y -resize 800x800 -quality 85 public/books/{N}/cover.jpg
+convert assets/your_cover.jpg -crop WxH+X+Y -resize 800x800 -quality 85 books/{N}/cover.jpg
 ```
 
-## 5. data.json Schema
+## 6. data.json Schema
 
 ```json
 {
@@ -186,23 +188,23 @@ convert assets/your_cover.jpg -crop WxH+X+Y -resize 800x800 -quality 85 public/b
 | `youtubeId` | string | YouTube video ID |
 | `youtubeEmbed` | string | Full YouTube embed URL |
 
-## 6. Auto-Discovery
+## 7. Auto-Discovery
 
 The app currently discovers books by a hardcoded list in `src/hooks/useBook.ts`. To add a new book:
 
 1. Add the book ID to the `bookIds` array in `useBookList()`
-2. Ensure `public/books/{N}/data.json` exists
+2. Ensure `books/{N}/data.json` exists
 
 In the future this could be replaced with a manifest file or directory listing.
 
-## 7. Validation
+## 8. Validation
 
 ```bash
 # Validate JSON
-python3 -m json.tool public/books/{N}/data.json
+python3 -m json.tool books/{N}/data.json
 
 # Check audio files
-ls -la public/books/{N}/audio/
+ls -la books/{N}/audio/
 
 # Run the app
 npm run dev

@@ -7,7 +7,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - `npm run dev` — Start Vite dev server.
 - `npm run build` — Regenerate PWA icons, run `tsc -b`, then `vite build` (output in `dist/`).
 - `npm run preview` — Serve the built `dist/` locally.
-- `npm run icons` — Regenerate `public/icons/*.png` from `assets/icon.*` or `public/books/1/cover.jpg` (run standalone when changing the icon source; `build` already invokes this).
+- `npm run icons` — Regenerate `public/icons/*.png` from `scripts/icon.svg`, `assets/icon.*`, or `books/1/cover.jpg` (run standalone when changing the icon source; `build` already invokes this).
 
 There is no test runner and no linter configured.
 
@@ -17,7 +17,7 @@ This is a React + Ionic PWA (Vite + TypeScript) that delivers daily Bible readin
 
 ### Content model
 
-Each book lives at `public/books/{N}/` and contains:
+Each book lives at `books/{N}/` and contains:
 
 - `data.json` — the full book definition (title, cover, and per-day entries).
 - `cover.jpg`
@@ -46,7 +46,7 @@ Audio assets are produced offline, not at build time:
 
 1. `transcribe.py` — runs OpenAI Whisper over a full-book MP3 to get word-level timestamps.
 2. `align_verses.py` — (partially stubbed) maps verse ranges to timestamps.
-3. `split_audio.sh` / `split_audio_book2.sh` — `ffmpeg`-splits the master MP3 into per-day clips using a `assets/timestamps*.json` file. `split_audio.sh` is book-1 specific (also re-encodes `FILEM.mp3` as day-47); `split_audio_book2.sh` is book-2 (Acts). These write directly into `public/books/{N}/audio/`.
+3. `split_audio.sh` / `split_audio_book2.sh` — `ffmpeg`-splits the master MP3 into per-day clips using a `assets/timestamps*.json` file. `split_audio.sh` is book-1 specific (also re-encodes `FILEM.mp3` as day-47); `split_audio_book2.sh` is book-2 (Acts). These write directly into `books/{N}/audio/`.
 4. `LYDFIL_INSTRUKSJONER.md` is the Norwegian-language Audacity guide given to non-technical collaborators who produce clips manually instead of via the Python pipeline.
 
 `generate-icons.mjs` uses `sharp` to build PWA icons with the brand-red background (`#c0392b`), including a maskable 512 with 20% padding.

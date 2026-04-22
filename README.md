@@ -2,7 +2,7 @@
 
 A Norwegian-language Bible devotional PWA for kids, built around the *Bible Warrior* book series. Each book is a set of daily "missions" — a short audio reading of a Bible passage, paired with a prayer prompt and a reflection, plus occasional BibleProject video days.
 
-Built with React + Ionic + Vite. No backend: all content is static JSON and MP3 files under `public/books/`.
+Built with React + Ionic + Vite. No backend: all content is static JSON and MP3 files under `books/` (served to the browser via a symlink at `public/books`).
 
 ## Getting started
 
@@ -25,7 +25,8 @@ Then open the URL printed by Vite (usually http://localhost:5173). Progress is s
 ## Project layout
 
 ```
-public/books/{N}/           One directory per book — data.json, cover.jpg, audio/*.mp3
+books/{N}/                  One directory per book — data.json, cover.jpg, audio/*.mp3
+public/books -> ../books    Symlink so Vite serves the content from /books/...
 src/pages/                  HomePage, BookPage, DayPage, VideoPage
 src/hooks/                  useBook (data fetch + cache), useAudioPlayer
 src/types/book.ts           Book / ReadingDay / VideoDay types
@@ -34,9 +35,7 @@ scripts/                    Offline audio pipeline (Whisper transcription, ffmpe
 
 ## Adding a book
 
-See [`ADDING_A_BOOK.md`](./ADDING_A_BOOK.md) for the full authoring workflow (directory layout, `data.json` schema, audio processing, and the one-line change in `src/hooks/useBook.ts` needed to register a new book id).
-
-For non-technical contributors preparing audio clips by hand in Audacity, see [`LYDFIL_INSTRUKSJONER.md`](./LYDFIL_INSTRUKSJONER.md) (Norwegian).
+See [`docs/ADDING_A_BOOK.md`](./docs/ADDING_A_BOOK.md) for the full authoring workflow (directory layout, `data.json` schema, audio processing, and the one-line change in `src/hooks/useBook.ts` needed to register a new book id).
 
 ## Deployment
 
