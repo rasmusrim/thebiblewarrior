@@ -5,6 +5,7 @@ import sharp from 'sharp'
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..')
 const candidates = [
+  resolve(root, 'scripts/icon.svg'),
   resolve(root, 'assets/icon.png'),
   resolve(root, 'assets/icon.jpg'),
   resolve(root, 'public/books/1/cover.jpg'),

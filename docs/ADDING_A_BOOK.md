@@ -51,7 +51,68 @@ Then run:
 
 Audio specs: 64kbps mono MP3 (~0.5-2MB per clip).
 
-## 4. Cover Image
+## 4. YouTube Video IDs (from QR codes)
+
+Video days in the physical book typically include a QR code linking to a BibleProject YouTube video. Extract the IDs from photos of the pages rather than retyping them.
+
+### Install a decoder
+
+`zbar` ships a decoding library on most distros, but you need Python bindings:
+
+```bash
+pip install --break-system-packages --user pyzbar Pillow
+```
+
+(Ubuntu: `libzbar0` must be present. It usually already is; if not, `apt install libzbar0`.)
+
+### Photograph the pages
+
+Phone photos are fine — any resolution the camera produces works. Put all the images in `assets/` so they stay out of the build output. Shoot one QR per photo to avoid ambiguity.
+
+### Decode
+
+Save this as `scripts/decode_qrs.py` or run ad-hoc:
+
+```python
+import os
+from pyzbar.pyzbar import decode, ZBarSymbol
+from PIL import Image
+
+d = "assets"
+for f in sorted(f for f in os.listdir(d) if f.lower().endswith(".jpg")):
+    img = Image.open(os.path.join(d, f))
+    # pyzbar sometimes misses at full resolution; try a few sizes
+    for target in (2000, 1400, 1000):
+        w, h = img.size
+        if max(w, h) <= target:
+            candidate = img
+        else:
+            scale = target / max(w, h)
+            candidate = img.resize((int(w * scale), int(h * scale)))
+        results = decode(candidate, symbols=[ZBarSymbol.QRCODE])
+        if results:
+            print(f, results[0].data.decode())
+            break
+    else:
+        print(f, "NONE")
+```
+
+If pyzbar returns `NONE` for a photo that clearly contains a QR, try the image at multiple scales (the resize loop above already does this). Glare and shallow depth-of-field are the usual culprits — reshoot if needed.
+
+### Map to day numbers
+
+The decoded QRs come back in filename order, which (for phone photos taken sequentially) matches the order the video days appear in the book. Cross-check by opening each YouTube URL and comparing the video's chapter range against the book's day list.
+
+Plug the IDs into `data.json`:
+
+```json
+"youtubeId": "Mgol7AVWCw0",
+"youtubeEmbed": "https://www.youtube.com/embed/Mgol7AVWCw0"
+```
+
+Duplicate QR codes across multiple pages are real — some printings reuse the same overview video across halves of a book. Preserve what the QR actually points to unless the author confirms a correction.
+
+## 5. Cover Image
 
 Crop the cover photo to isolate the emblem/artwork:
 ```bash
